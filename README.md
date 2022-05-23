@@ -71,3 +71,7 @@ Give a ⭐️ if you like this project!
 The design has been inspired by:
 
 [Microverse](https://www.microverse.org)
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
