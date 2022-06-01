@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<section
+  className="home-section calculator-section"
+  id="calculator"
+>
+  <h2
+    className="home-title"
+  >
+    Lets's do some math!
+  </h2>
+  <div
+    className="container"
+  >
+    <div
+      className="output"
+    >
+      <span />
+      <span />
+      <span>
+        0
+      </span>
+    </div>
+    <div
+      className="buttons"
+    >
+      <div
+        className="btn"
+        onClick={[Function]}
+      >
+        AC
+      </div>
+      <div
+        className="btn"
+        onClick={[Function]}
+      >
+        +/-
+      </div>
+      <div
+        className="btn"
+        onClick={[Function]}
+      >
+        %
+      </div>
+      <div
+        className="btn side"
+        onClick={[Function]}
+      >
+        ÷
+      </div>
+      <div
+        className="btn"
+        onClick={[Function]}
+      >
+        7
+      </div>
+      <div
+        className="btn"
+        onClick={[Function]}
+      >
+        8
+      </div>
+      <div
+        className="btn"
+        onClick={[Function]}
+      >
+        9
+      </div>
+      <div
+        className="btn side "
+        onClick={[Function]}
+      >
+        x
+      </div>
+      <div
+        className="btn"
+        onClick={[Function]}
+      >
+        4
+      </div>
+      <div
+        className="btn"
+        onClick={[Function]}
+      >
+        5
+      </div>
+      <div
+        className="btn"
+        onClick={[Function]}
+      >
+        6
+      </div>
+      <div
+        className="btn side"
+        onClick={[Function]}
+      >
+        -
+      </div>
+      <div
+        className="btn"
+        onClick={[Function]}
+      >
+        1
+      </div>
+      <div
+        className="btn"
+        onClick={[Function]}
+      >
+        2
+      </div>
+      <div
+        className="btn"
+        onClick={[Function]}
+      >
+        3
+      </div>
+      <div
+        className="btn side"
+        onClick={[Function]}
+      >
+        +
+      </div>
+      <div
+        className="btn zero"
+        onClick={[Function]}
+      >
+        0
+      </div>
+      <div
+        className="btn"
+        onClick={[Function]}
+      >
+        .
+      </div>
+      <div
+        className="btn side"
+        onClick={[Function]}
+      >
+        =
+      </div>
+    </div>
+  </div>
+</section>
+`;
