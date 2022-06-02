@@ -1,6 +1,11 @@
-# Math-magician
+### Math-magician
 
 "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations. Read a random math-related quote.
+
+![image](https://user-images.githubusercontent.com/98453979/171624564-fd57a327-e2c4-41ab-b936-c4a4a57a440d.png)
+
+![image](https://user-images.githubusercontent.com/98453979/171625070-1cbdc4ab-c9b2-4b42-8f57-bad282b310b7.png)
+
 
 ## Built With
 
@@ -17,6 +22,10 @@
 - Stylelint (A mighty, modern linter that helps you avoid errors and enforce conventions in your styles).
 
 - ESlint (A mighty, modern linter that helps you avoid errors and enforce conventions in JavaScript codes)
+
+## Live Demo
+
+[Maths App live](https://spectacular-syrniki-34c6b1.netlify.app)
 
 ## Prerequisites
 
